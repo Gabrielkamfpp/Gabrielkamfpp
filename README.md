@@ -2,11 +2,11 @@
 - 👀 Estudando typescript
 - 🌱 Agredeço sua visita!
 - ☕ Aceita um café? 
-## Oiii eu sou o Gabriel Ferreira,amante de  programação e tecnologia!
+## Oiii eu sou o Gabriel kamfpp,amante de  programação e tecnologia!
 <div align="center">
-  <a href="https://github.com/GabrielFerreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Gabrielkamfpp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielkamfpp&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkamfpp&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
